@@ -1,9 +1,15 @@
 ### [Quick_Okada.ipynb](https://colab.research.google.com/github/jiangyuinsar/okada_wrapper/blob/master/Quick_Okada.ipynb): Quick view of surface deformation caused by earthquakes in 3D or satellite line-of-sight directions (InSAR). 
-### The code is run in Google Colab platform, so it is free of charge!
+### The code is written in Python and run in Google Colab platform, so it is free of charge! 
+
+
+
+
+
+
 
 
 ------------------------------------------------
-The following text partially refers to [Okada_Wrapper](https://github.com/tbenthompson/okada_wrapper) repository. 
+The following text forks the description of Python code of [Okada_Wrapper](https://github.com/tbenthompson/okada_wrapper) repository. 
 
 #### Okada wrapper (Python)
 
