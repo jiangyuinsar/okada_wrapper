@@ -1,4 +1,5 @@
-### [Quick_Okada.ipynb](https://colab.research.google.com/github/jiangyuinsar/okada_wrapper/blob/master/Quick_Okada.ipynb): Quick view of surface deformation caused by earthquakes in 3D or satellite line-of-sight directions (InSAR). The script is run in Google Colab platform & free of charge!
+### [Quick_Okada.ipynb](https://colab.research.google.com/github/jiangyuinsar/okada_wrapper/blob/master/Quick_Okada.ipynb): Quick view of surface deformation caused by earthquakes in 3D or satellite line-of-sight directions (InSAR). 
+### The script is run in Google Colab platform & free of charge!
 
 
 ------------------------------------------------
