@@ -1,5 +1,4 @@
-### [Quick_Okada.ipynb](https://colab.research.google.com/github/jiangyuinsar/okada_wrapper/blob/master/Quick_Okada.ipynb): Quick view of surface deformation caused by earthquakes in 3D and satellite line-of-sight directions.
-### [Quick_Okada.ipynb](https://colab.research.google.com/github/jiangyuinsar/okada_wrapper/blob/master/Quick_Okada.ipynb) is run in Google Colab platform & free of charge!
+### [Quick_Okada.ipynb](https://colab.research.google.com/github/jiangyuinsar/okada_wrapper/blob/master/Quick_Okada.ipynb): Quick view of surface deformation caused by earthquakes in 3D or satellite line-of-sight directions (InSAR). The script is run in Google Colab platform & free of charge!
 
 
 ------------------------------------------------
@@ -21,10 +20,6 @@ though not in any substantial way. Look at the [original documentation webpage
 here](http://www.bosai.go.jp/study/application/dc3d/DC3Dhtml_E.html) for more details
 
 A different MATLAB mex wrapper for the Okada dislocation sources is available on [Paul Segall's website](https://pangea.stanford.edu/research/CDFM/software/index.html).
-
-#### Common issues:
-If you're having problems installing on a recent version of OSX, see here for some help: https://github.com/tbenthompson/okada_wrapper/issues/3
-
 
 #### Python
 
